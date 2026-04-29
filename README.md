@@ -1,4 +1,4 @@
 # Scratch Coding Practice 101
-# fccHTMLWebsitePractice
+## Project 1/10
 Cat Photo App - fcc
 
