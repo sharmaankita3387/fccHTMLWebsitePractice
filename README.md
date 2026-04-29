@@ -1,7 +1,7 @@
 # Scratch Coding Practice 101
 
 ## Project 1 of 10 — Cat Photo App (freeCodeCamp)
-Link: https://sharmaankita3387.github.io/fccHTMLWebsitePractice/
+Link: [https://sharmaankita3387.github.io/fccHTMLWebsitePractice/](https://sharmaankita3387.github.io/fccHTMLWebsitePractice01/)
 
 This repository contains **Project 1** in my coding practice series — a beginner-friendly HTML project focused on building foundational skills.
 
