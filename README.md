@@ -16,11 +16,6 @@ The **Cat Photo App** is a starter project from freeCodeCamp that introduces cor
 
 ---
 
-## Purpose
-This project marks the starting point of my journey. The goal is not just to complete exercises, but to build a clear understanding of how things work under the hood.
-
----
-
 ## Guiding Principle
 > "To become a reliable VibeCoder, you must first understand what’s happening behind the scenes as a Software Engineer."
 
